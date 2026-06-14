@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAD Render Fidelity Review"
+  short_description: "Audit renderings against CAD drawings."
+  default_prompt: "Use $cad-render-fidelity-review to audit whether renderings match the CAD drawings."
