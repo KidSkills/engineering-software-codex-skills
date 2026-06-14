@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoCAD DWG PDF Output"
+  short_description: "Locate CAD installations and export DWG layouts to PDF."
+  default_prompt: "Use $autocad-dwg-pdf-output to convert DWG drawings into checked PDFs."
