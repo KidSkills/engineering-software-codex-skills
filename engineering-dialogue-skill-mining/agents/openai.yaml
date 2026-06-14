@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Dialogue Skill Mining"
+  short_description: "Mine engineering chats into skills."
+  default_prompt: "Use $engineering-dialogue-skill-mining to extract reusable skills from engineering software conversations."
