@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ansys Fluent Visualization"
+  short_description: "Open, verify, and visualize Fluent CFD cases and results."
+  default_prompt: "Use $ansys-fluent-visualization to find a case, open Fluent, and display flow fields."
