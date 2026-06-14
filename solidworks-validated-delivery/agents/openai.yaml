@@ -1,0 +1,4 @@
+interface:
+  display_name: "SolidWorks Validated Delivery"
+  short_description: "Deliver SolidWorks models with independent geometry validation."
+  default_prompt: "Use $solidworks-validated-delivery to build and verify a CAD model from drawings or images."
