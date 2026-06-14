@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATLAB Install Diagnostics"
+  short_description: "Diagnose MATLAB installs and activation."
+  default_prompt: "Use $matlab-install-diagnostics to find MATLAB installs and troubleshoot legal activation."
